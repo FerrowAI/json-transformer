@@ -1,0 +1,14 @@
+# json-transformer
+> Chainable, immutable JSON transformer: pick/omit/rename by dot-path, map, defaults, and flatten/unflatten. Zero runtime dependencies.
+
+A small, chainable, **immutable** JSON transformer for TypeScript/Node. Build a pipeline of pick/omit/rename/map/defaults/flatten steps once, then run it against a single object or an array of objects. The input is never
+
+## API
+- `Json`
+- `JSONTransformer`
+- `transform`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai

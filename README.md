@@ -60,3 +60,6 @@ accept dot-notation paths (`'user.address.city'`) for nested access.
   enforce shape as well as reshape it.
 
 Sponsored by [Ferrow](https://ferrow.ai)
+
+---
+Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
