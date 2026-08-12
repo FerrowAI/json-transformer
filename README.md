@@ -1,4 +1,5 @@
 # json-transformer
+![CI](https://github.com/FerrowAI/json-transformer/actions/workflows/ci.yml/badge.svg)
 
 A small, chainable, **immutable** JSON transformer for TypeScript/Node.
 Build a pipeline of pick/omit/rename/map/defaults/flatten steps once, then
