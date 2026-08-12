@@ -1,1 +1,21 @@
-{"name":"json-transformer","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{
+  "name": "json-transformer",
+  "version": "2.0.0",
+  "description": "Chainable, immutable JSON transformer: pick/omit/rename by dot-path, map, defaults, and flatten/unflatten. Zero runtime dependencies.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node examples/demo.js"
+  },
+  "keywords": [
+    "json",
+    "transform",
+    "immutable",
+    "chainable",
+    "flatten",
+    "typescript"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT"
+}
