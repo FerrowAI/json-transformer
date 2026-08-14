@@ -1,5 +1,5 @@
 {
-  "name": "json-transformer",
+  "name": "@ferrow/json-transformer",
   "version": "2.0.0",
   "description": "Chainable, immutable JSON transformer: pick/omit/rename by dot-path, map, defaults, and flatten/unflatten. Zero runtime dependencies.",
   "main": "dist/index.js",

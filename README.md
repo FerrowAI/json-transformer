@@ -1,4 +1,8 @@
 # json-transformer
+
+```sh
+npm install @ferrow/json-transformer
+```
 ![CI](https://github.com/FerrowAI/json-transformer/actions/workflows/ci.yml/badge.svg)
 
 A small, chainable, **immutable** JSON transformer for TypeScript/Node.
